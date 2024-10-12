@@ -69,6 +69,7 @@ const Border = styled.div`
 
   @media screen and (max-width: 480px){
     padding: 28px;
+    margin: 24px;
   }
 `;
 
